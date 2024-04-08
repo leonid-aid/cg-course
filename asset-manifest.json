@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cg-course/static/css/main.19e77156.css",
+    "main.js": "/cg-course/static/js/main.c5f0c17e.js",
+    "static/js/787.0c9ac1fa.chunk.js": "/cg-course/static/js/787.0c9ac1fa.chunk.js",
+    "static/media/Fon1.jpg": "/cg-course/static/media/Fon1.8163ecb27c96e455cfd5.jpg",
+    "static/media/People.jpg": "/cg-course/static/media/People.749a868cc678a69179f0.jpg",
+    "static/media/WorkSans-SemiBold.ttf": "/cg-course/static/media/WorkSans-SemiBold.8988ce2e3e8957a63db8.ttf",
+    "static/media/Roboto-Regular.ttf": "/cg-course/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/burger.svg": "/cg-course/static/media/burger.b0d2ec856c8ee572a630cf7418f2adc1.svg",
+    "index.html": "/cg-course/index.html",
+    "main.19e77156.css.map": "/cg-course/static/css/main.19e77156.css.map",
+    "main.c5f0c17e.js.map": "/cg-course/static/js/main.c5f0c17e.js.map",
+    "787.0c9ac1fa.chunk.js.map": "/cg-course/static/js/787.0c9ac1fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19e77156.css",
+    "static/js/main.c5f0c17e.js"
+  ]
+}
